@@ -1,0 +1,25 @@
+<package>
+  <description brief="rgbd_demo">
+
+     rgbd_demo
+
+  </description>
+  <author>Juergen Sturm</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rgbd_demo</url>
+  <depend package="visualization_msgs"/>
+  <depend package="std_msgs"/>
+  <depend package="geometry_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="cv_bridge"/>
+  <depend package="opencv2"/>
+  <depend package="tf_conversions"/>
+  <depend package="tf"/>
+  <depend package="roscpp"/>
+  <depend package="pcl_ros"/>
+  <depend package="pcl"/>
+
+</package>
+
+
